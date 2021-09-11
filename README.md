@@ -17,7 +17,7 @@ The challenge is to build the back end for an e-commerce site. I’ll take a wor
 
 Because this application won’t be deployed, I’ll also need to provide a link to a walkthrough video that demonstrates its functionality. There is a link to the video in the README of this project.
 
--The link to the video: https://github.com/AWiebe2021/Employee-Tracker/raw/main/SQL%20Challenge-Employee%20Tracker.mp4
+-The link to the video: https://github.com/AWiebe2021/fantastic-umbrella/blob/0b852d30f0cd4121dd2abf2f08fb306311e3627e/ORM%20Challenge-%20Ecommerce%20Back%20End.mp4
 -The projects code can be accessed at:https://github.com/AWiebe2021/fantastic-umbrella
 
 ## Screenshot
